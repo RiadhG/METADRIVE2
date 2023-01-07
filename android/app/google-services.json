@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "854495204330",
+    "project_id": "metadrive-3dd32",
+    "storage_bucket": "metadrive-3dd32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854495204330:android:61bd4237c40a0499111893",
+        "android_client_info": {
+          "package_name": "com.example.metadrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854495204330-8d59da2dt2a4r9diqkpcaoeo1qd7repe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZqdahyeuOjPRdi-xbHxdzEUDyVPxZ-S4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854495204330-8d59da2dt2a4r9diqkpcaoeo1qd7repe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "854495204330-q6heifvd5s6m29l61tcbi48dhiqa4slu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.metadrive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
